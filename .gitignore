@@ -1,0 +1,8 @@
+# ignore model files
+*.pth
+
+# PyCharm
+.idea/
+
+# Python cached .npy
+__pycache__/
